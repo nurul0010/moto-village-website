@@ -15,4 +15,4 @@ Features --
 * For order user must be logged in
 * Some extra features for admin , can add products removes orders,product etc
 * Only admin can make admin
-* admin@admin.com   pass - 12345
+* admin@admin.com   pass - 123456
